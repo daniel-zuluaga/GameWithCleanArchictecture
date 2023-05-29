@@ -1,0 +1,16 @@
+{
+    "name": "GameCleanArchitecture.InterfaceAdapters",
+    "rootNamespace": "",
+    "references": [
+        "GUID:09c18d69b8fcc42bf99a169b86682bf8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
