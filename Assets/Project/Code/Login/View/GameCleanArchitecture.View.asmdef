@@ -1,0 +1,16 @@
+{
+    "name": "GameCleanArchitecture.View",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4b70cf83c59a948309230a9e1541b321"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
